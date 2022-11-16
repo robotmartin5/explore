@@ -96,7 +96,7 @@ This repository includes [a list of the most-used GitHub topics that don't yet h
 
 **Please fill out the pull request template completely.** If you do not fill out the template, your pull request will be closed.
 
-## Guidelines
+## [Guidelines](http://ro.doddlercon.com/wikidiscussion/kareha.pl/1668603072/l50)
 
 * Avoid conflicts of interest. Maintainers of a project cannot add a topic or collection for their own project. If a topic is popular enough to warrant inclusion, someone else will add or improve it.
 
